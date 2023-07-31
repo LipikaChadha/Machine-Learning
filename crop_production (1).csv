@@ -1,0 +1,50 @@
+State_Name,Crop_Year,Season,Crop,Area,Production
+Andaman and Nicobar Islands,2000,Kharif     ,Arecanut,1254,2000
+Andaman and Nicobar Islands,2000,Kharif     ,Other Kharif pulses,2,
+Andaman and Nicobar Islands,2000,Kharif     ,Rice,102,321
+Andaman and Nicobar Islands,2000,Whole Year ,Banana,176,641
+Andaman and Nicobar Islands,2000,Whole Year ,Cashewnut,720,165
+Andaman and Nicobar Islands,2000,Whole Year ,Coconut ,18168,65100000
+Andaman and Nicobar Islands,2000,Whole Year ,Dry ginger,36,
+Andaman and Nicobar Islands,2000,Whole Year ,Sugarcane,1,2
+Andaman and Nicobar Islands,2000,Whole Year ,Sweet potato,,15
+Andaman and Nicobar Islands,2000,Whole Year ,Tapioca,40,169
+Andaman and Nicobar Islands,2001,Kharif     ,Arecanut,1254,2061
+Andaman and Nicobar Islands,2001,Kharif     ,Other Kharif pulses,2,1
+Andaman and Nicobar Islands,2001,Kharif     ,Rice,,300
+Andaman and Nicobar Islands,2001,Whole Year ,Cashewnut,719,
+Andaman and Nicobar Islands,2001,Whole Year ,Coconut ,18190,64430000
+Andaman and Nicobar Islands,2001,Whole Year ,Dry ginger,46,100
+Andaman and Nicobar Islands,2001,Whole Year ,Sugarcane,1,1
+Andaman and Nicobar Islands,2001,Whole Year ,Sweet potato,11,33
+Andaman and Nicobar Islands,2002,Kharif     ,Rice,189.2,510.84
+Andaman and Nicobar Islands,2002,Whole Year ,Arecanut,1258,2083
+Andaman and Nicobar Islands,2002,Whole Year ,Banana,213,1278
+Andaman and Nicobar Islands,2002,Whole Year ,Black pepper,63,13.5
+Andaman and Nicobar Islands,2002,Whole Year ,Cashewnut,719,
+Andaman and Nicobar Islands,2002,Whole Year ,Coconut ,18240,67490000
+Andaman and Nicobar Islands,2002,Whole Year ,Dry chillies,413,28.8
+Andaman and Nicobar Islands,2002,Whole Year ,Dry ginger,47.3,133
+Andaman and Nicobar Islands,2002,Whole Year ,Sugarcane,5,40
+Andaman and Nicobar Islands,2003,Kharif     ,Rice,52,
+Maharashtra,1997,Rabi       ,Other  Rabi pulses,350,15
+Maharashtra,1997,Rabi       ,Wheat,55900,20400
+Maharashtra,1997,Summer     ,Rice,2,3
+Maharashtra,2013,Kharif     ,Soyabean,185600,121700
+Maharashtra,2013,Rabi       ,Jowar,3500,2200
+Maharashtra,2013,Rabi       ,Wheat,25700,33700
+Maharashtra,2014,Kharif     ,Arhar/Tur,72800,19200
+Maharashtra,2014,Summer     ,Groundnut,5900,10200
+Maharashtra,2006,Kharif     ,Castor seed,100,25
+Maharashtra,2006,Kharif     ,Cotton(lint),62200,62900
+Meghalaya,2014,Kharif     ,Jute,408,4617
+Nagaland,2004,Kharif     ,Small millets,680,700
+Nagaland,2004,Kharif     ,Soyabean,6100,9810
+Odisha,2006,Winter     ,Potato,579,4155.5
+Odisha,2006,Winter     ,Ragi,11,6.6
+Odisha,2006,Winter     ,Rapeseed &Mustard,691,154.8
+Punjab,2014,Kharif     ,Rice,176000,540000
+Punjab,2014,Kharif     ,Sesamum,15000,6000
+Punjab,2014,Rabi       ,Wheat,188000,777000
+Rajasthan,1997,Kharif     ,Bajra,56600,30400
+Rajasthan,1997,Kharif     ,Cotton(lint),16000,31176
